@@ -482,7 +482,7 @@ MonoBehaviour:
     enableDebuggingScripts: 1
     buildScriptsOnly: 0
   archiveSettings:
-    enable: 0
+    enable: 1
     type: 0
     fileName:
       names:
@@ -498,7 +498,7 @@ MonoBehaviour:
         text: 
       - type: 0
         text: ).zip
-      asSlug: 0
+      asSlug: 1
   customScriptDefineSymbols:
     enable: 0
     customValue: 
